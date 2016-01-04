@@ -8,13 +8,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>新增動物資料</title>
 <link href="<c:url value="/resources/css/mystyle.css" />" rel="stylesheet" type="text/css">
-<style type="text/css">
-
-
-</style>
 </head>
-<body>
-	
+<body>	
 	<form:form name="form" modelAttribute="animals">
 	<div id=abcde>
 		<jsp:include page="/WEB-INF/jsp/animals.jsp" />
